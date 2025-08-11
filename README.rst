@@ -2,8 +2,6 @@
 djangocms-blog
 ==============
 
-|Gitter| |PyPiVersion| |PyVersion| |GAStatus| |TestCoverage| |CodeClimate| |License|
-
 django CMS blog application - Support for multilingual posts, placeholders, social network meta tags and configurable apphooks.
 
 
